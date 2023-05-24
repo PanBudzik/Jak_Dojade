@@ -74,38 +74,38 @@ Na wyjściu należy wypisać dla każdego zapytania jedną linię. Na początku 
 For each query, output one line. At the beginning of the line should be the number representing the shortest travel time between the cities. If the query has a type of one, all intermediate cities (excluding the starting and ending cities) should also be listed in the order they were visited, separated by spaces.
 Testy:
 Tutaj
-Opis testów:
-1 - przykład
-2 - minimalny
-3 - poprawność czytania etykiet
-4 - poprawność
-5 - prosty test na kracie
-6 - mały wachlarz
-7 - mała ścieżka
-8 - mały graf pełny
-9 - duża mapa, mało miast
-10 - duża mapa, mało miast
-11 - wachlarz, implementacja z tablicą raczej nie zmieści się w czasie
-12 - spirala, rekurencja implementacja przeszukiwania przepełni stos
-13 - długa ścieżka, implementacja z tablicą raczej nie zmieści się w czasie
-14 - dużo krawędzi
+Opis testów:<br />
+1 - przykład<br />
+2 - minimalny<br />
+3 - poprawność czytania etykiet<br />
+4 - poprawność<br />
+5 - prosty test na kracie<br />
+6 - mały wachlarz<br />
+7 - mała ścieżka<br />
+8 - mały graf pełny<br />
+9 - duża mapa, mało miast<br />
+10 - duża mapa, mało miast<br />
+11 - wachlarz, implementacja z tablicą raczej nie zmieści się w czasie<br />
+12 - spirala, rekurencja implementacja przeszukiwania przepełni stos<br />
+13 - długa ścieżka, implementacja z tablicą raczej nie zmieści się w czasie<br />
+14 - dużo krawędzi<br />
 Tests:
 Here
-Opis testów:
-1 - example
-2 - minimum
-3 - label reading correctness
-4 - correctness
-5 - simple test on a grid
-6 - small fan
-7 - small path
-8 - small complete graph
-9 - large map, few cities
-10 - large map, few cities
-11 - fan, array implementation may not fit in time
-12 - spiral, recursion implementation of search overflows the stack
-13 - long path, array implementation may not fit in time
-14 - many edges
+Opis testów:<br />
+1 - example<br />
+2 - minimum<br />
+3 - label reading correctness<br />
+4 - correctness<br />
+5 - simple test on a grid<br />
+6 - small fan<br />
+7 - small path<br />
+8 - small complete graph<br />
+9 - large map, few cities<br />
+10 - large map, few cities<br />
+11 - fan, array implementation may not fit in time<br />
+12 - spiral, recursion implementation of search overflows the stack<br />
+13 - long path, array implementation may not fit in time<br />
+14 - many edges<br />
 Przykład:/Example:
 
     Wejście:/Input:
